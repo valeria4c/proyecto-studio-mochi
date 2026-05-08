@@ -1,0 +1,1 @@
+ D:\\xflutterherrera0606\\studiomochi22px\\build\\84e906d56e902ddc9e6bca41a97177b4\\dart_build_result.json:  C:\\flutter\\bin\\cache\\dart-sdk\\version D:\\xflutterherrera0606\\studiomochi22px\\.dart_tool\\package_config.json D:\\xflutterherrera0606\\studiomochi22px\\pubspec.yaml d:\\xflutterherrera0606\\studiomochi22px\\.dart_tool\\package_config.json
